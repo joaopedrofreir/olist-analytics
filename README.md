@@ -52,7 +52,7 @@ Demonstrar habilidades em:
 
 * SP concentra 37,4% do faturamento total, seguido por RJ (13,3%) e MG (11,8%).
 * A categoria health_beauty lidera em faturamento, seguida por watches_gifts e bed_bath_table.
-* Estados do Norte e Nordeste têm prazo médio de entrega acima de 20 dias, enquanto SP fica em torno de 8 dias.
+* Estados do Norte e Nordeste chegam a ter 3x mais tempo de entrega que SP, RR lidera com 29 dias contra 8 dias de SP.
 * Mais de 78% dos pagamentos são feitos com cartão de crédito.
 * A avaliação média geral é 4,16 ★, com 57% dos pedidos recebendo nota 5.
 
