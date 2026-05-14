@@ -2,7 +2,7 @@
 
 ## 📊 Sobre o projeto
 
-Este projeto realiza uma análise completa de dados reais de e-commerce da Olist, uma plataforma brasileira que conecta pequenos lojistas a grandes marketplaces. O objetivo é passar por todo o fluxo de dados — desde a limpeza com Python até a visualização no Power BI — respondendo perguntas de negócio a partir dos dados.
+Este projeto realiza uma análise completa de dados reais de e-commerce da Olist, uma plataforma brasileira que conecta pequenos lojistas a grandes marketplaces. O objetivo é passar por todo o fluxo de dados, desde a limpeza com Python até a visualização no Power BI, respondendo perguntas de negócio a partir dos dados.
 
 ## 🛠 Tecnologias utilizadas
 
